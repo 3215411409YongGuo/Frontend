@@ -77,4 +77,4 @@ npm run test:unit
 
 ## License
 
-This project is released under the MIT licence for educational purposes.
+This project is released under the Creative Commons Zero (CC0) licence for educational purposes.
